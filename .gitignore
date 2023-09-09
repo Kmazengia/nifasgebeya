@@ -11,3 +11,5 @@ lerna-debug.log*
 .pnpm-debug.log*
 # Optional npm cache directory
 .npm
+# History
+.history
