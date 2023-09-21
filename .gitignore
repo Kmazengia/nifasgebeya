@@ -1,15 +1,28 @@
-# Dependency directories
-node_modules/
-jspm_packages/
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-lerna-debug.log*
-.pnpm-debug.log*
-# Optional npm cache directory
-.npm
-# History
-.history
+Issue Type: Story
+================
+Url: https://sndandpretups.atlassian.net/browse/SD-40
+
+As a delivery driver, I want to be able to use a mobile app to facilitate and track my deliveries
+so that I can efficiently manage them and provide real-time updates to both customers and the 
+logistics team.
+
+Acceptance Criteria:
+===================
+1. The mobile app should provide a user-friendly interface for drivers to log in and access their 
+delivery tasks.
+
+2. Upon logging in, the driver should be able to view a list of pending delivery orders, including 
+relevant details such as delivery addresses, contact information, and delivery timeframes.
+
+3. The app should allow drivers to select a specific delivery order and view detailed information 
+about it.
+
+4. Drivers should be able to mark the status of a delivery order as "In Progress," indicating that 
+they have started the delivery process.
+
+5. Once the delivery is complete, drivers should be able to update the order status to "Delivered" 
+in the app.
+
+6. Drivers should be able to view their delivery history and access details of past deliveries for 
+reference.
+
