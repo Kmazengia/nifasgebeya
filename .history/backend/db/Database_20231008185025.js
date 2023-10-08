@@ -1,0 +1,1 @@
+constant mongoose = require("mongoose");
